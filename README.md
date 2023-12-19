@@ -11,9 +11,9 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vidalc110972" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vidalc110972" altura = "10" ancho = "20" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vidalc110972" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vidalc110972" altura = "05" ancho = "10" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3> ;
-<p align="izquierda"> <a href="https://canvasjs.com" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" ancho = "40" altura="40"/> </a> <a href="https://www.mysql.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho = "40" altura="40"/> </a> </p>
+<p align="izquierda"> <a href="https://canvasjs.com" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" ancho = "40" altura="40"/> </a> <a href="https://www.mysql.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho = "05" altura="10"/> </a> </p>
 
