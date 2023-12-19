@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vidalc110972" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vidalc110972" altura = "30" ancho = "40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vidalc110972" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vidalc110972" altura = "10" ancho = "20" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3> ;
